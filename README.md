@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Yash Tyagi!
 B.S. Computer Science & Mathematics minor  
 Texas Christian University 2024  
-GPA: 4.0/4.0  
 
 As an uprising software engineer 🛠, I've collaborated with teams globally 🌍, from startups 🚀 to multinationals 🏢. Driven by a passion for creating user-centric products 💡, I've honed skills in both front-end and back-end development, along with data analysis 📊. My mission? Melding design and functionality for optimal user experiences from code to click 🖱💼.
 
