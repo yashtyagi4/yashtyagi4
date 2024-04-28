@@ -10,6 +10,7 @@ As an uprising software engineer 🛠, I've collaborated with teams globally �
 - **Concepts**: `RESTful APIs`, `OOP`, `Design Patterns`, `Git`, `Docker`, `Linux`, `Software Engineering`, `Agile`, `Scrum`
 
 ## 🏆 Achievements:
+- 🎖️ TCU Computer Science Grad Scholar of the year - 2024
 - 🎓 TCU Chancellor Scholar (5/414)
 - 📜 Dean’s Honor List & TCU Scholar, 2021 - 2024
 - 🥇 Winner of CodeRed Hackathon, 2022
