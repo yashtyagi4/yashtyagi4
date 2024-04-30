@@ -5,10 +5,11 @@ Texas Christian University 2024
 As an uprising software engineer 🛠, I've collaborated with teams globally 🌍, from startups 🚀 to multinationals 🏢. Driven by a passion for creating user-centric products 💡, I've sharpened skills in both front-end and back-end development, along with data analytics 📊. My mission? Melding design and functionality for optimal user experiences from code to click 🖱💼.
 
 ## 🔧 Skills:
-- **Languages & Frameworks**: `HTML5/CSS3`, `JavaScript`, `Java`, `Python`, `ARM`, `C`, `C++`
+- **Languages **: `HTML5/CSS3`, `JavaScript`, `Java`, `Python`, `ARM`, `C`, `C++`
 - **Frameworks**: `Vue.js`, `Spring`,`TensorFlow`, `PyTorch`, `React`
 - **Databases**: `SQL`, `PostgreSQL`, `MongoDB`
-- **Concepts**: `RESTful APIs`, `OOP`, `Design Patterns`, `Git`, `Docker`, `Linux`, `Software Engineering`, `Agile`, `Scrum`
+- **Other**: `Git`, `Docker`, `Linux`
+- **Concepts**: `RESTful APIs`, `OOP`, `Design Patterns`, `Software Engineering`, `Agile`, `Scrum`
 
 ## 🏆 Achievements:
 - 🎖️ TCU Computer Science Grad Scholar of the Year - 2024
