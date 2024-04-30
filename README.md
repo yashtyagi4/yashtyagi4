@@ -5,7 +5,7 @@ Texas Christian University 2024
 As an uprising software engineer 🛠, I've collaborated with teams globally 🌍, from startups 🚀 to multinationals 🏢. Driven by a passion for creating user-centric products 💡, I've sharpened skills in both front-end and back-end development, along with data analytics 📊. My mission? Melding design and functionality for optimal user experiences from code to click 🖱💼.
 
 ## 🔧 Skills:
-- **Languages & Frameworks**: `HTML`, `CSS`, `JavaScript`, `Vue.JS`, `Java`, `Spring`, `Python`, `TensorFlow`, `PyTorch`, `ARM`, `C`, `C++`, `SQL`
+- **Languages & Frameworks**: `HTML5/CSS3`, `JavaScript`, `Vue.js`, `Java`, `Spring`, `Python`, `TensorFlow`, `PyTorch`, `ARM`, `C`, `C++`, `SQL`, `PostgreSQL`, `MongoDB`
   
 - **Concepts**: `RESTful APIs`, `OOP`, `Design Patterns`, `Git`, `Docker`, `Linux`, `Software Engineering`, `Agile`, `Scrum`
 
